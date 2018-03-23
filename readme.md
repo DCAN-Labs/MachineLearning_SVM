@@ -1,4 +1,4 @@
-# basic_SVM Matlab code #
+# ***basic_SVM*** Matlab code #
 
 This page is a quick manual to the use of the function ***basic_SVM*** (basic Support Vector Machine). This code is located in https://github.com/DCAN-Labs/MachineLearning_SVM/
 
