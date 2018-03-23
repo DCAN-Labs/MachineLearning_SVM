@@ -1,6 +1,6 @@
 # basic_SVM Matlab code #
 
-This page is a quick manual to the use of the function basic_SVM (basic Support Vector Machine). This code is located in {{{/group_shares/PSYCH/code/development/utilities/MachineLearning}}}
+This page is a quick manual to the use of the function basic_SVM (basic Support Vector Machine). This code is located in {{{https://github.com/DCAN-Labs/MachineLearning_SVM/}}}
 
 basic_SVM is a set of functions to run machine learning to make classification. It needs as input a set of features and the corresponding class. At this moment it is only able to handle dichotomous cases (eg, 1 and 0, siblings and unrelated, control and adhd, ...). 
 
